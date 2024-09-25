@@ -5,7 +5,9 @@
       <router-link to="/roulette" class="text-lg font-semibold cursor-pointer hover:text-yellow-300">
         룰렛
       </router-link>
-      <h1 class="text-lg font-semibold">메뉴2</h1>
+      <router-link to="/ladder" class="text-lg font-semibold cursor-pointer hover:text-yellow-300">
+        사다리타기
+      </router-link>
       <h1 class="text-lg font-semibold">메뉴3</h1>
       <h1 class="text-lg font-semibold">메뉴4</h1>
       <h1 class="text-lg font-semibold">메뉴5</h1>
